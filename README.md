@@ -1,28 +1,10 @@
 # React-Developer
-* Trilha de aprendizado React developer 
 
-## Download Node.js
-* [Node.js](https://nodejs.org/en): Baixar e instalar o node na versão LTS.
+> Trilha de aprendizado React developer 
 
-## Instalação Yarn
-```py
-npm install -g Yarn
-```
-
-## React DevTools
-* [Install for Chrome](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1): Adicionar extensão do navegado google chrome.
-
-## Extensões úteis para VSCode
-* Bracket Pair
-* Color Highlight
-* Color Picker
-* Editor Config
-* ES7 React/Redux/React-Native/JS Snippets
-* ESLint
-* Git Graph
-* MarkDown Preview Github Styling
-* Material Icon theme
-* Prettier - Code formatter
-* TODO Tree
-* Turbo Console Log
+* [Fundamentos de React](Fundamentos%20de%20React/doc.md)
+* [Conceitos básicos da biblioteca](Conceitos%20básicos%20da%20biblioteca/doc.md)
+* [Ampliando os conhecimentos com React](Ampliando%20os%20conhecimentos%20com%20React/doc.md)
+* [React com typescript](React%20com%20typescript/doc.md)
+* [Conceitos Avançados do React](Conceitos%20Avançados%20do%20React/doc.md)
 
