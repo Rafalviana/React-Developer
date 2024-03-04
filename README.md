@@ -1,5 +1,5 @@
 # React-Developer
-Trilha de aprendizado React developer 
+* Trilha de aprendizado React developer 
 
 ## Download Node.js
 * [Node.js](https://nodejs.org/en): Baixar e instalar o node na versão LTS.
